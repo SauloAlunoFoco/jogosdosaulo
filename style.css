@@ -1,0 +1,62 @@
+body{
+  background-color:#FA0B00;
+  text-align:center;
+}
+
+
+
+h1{
+  color:white;
+  border:2px solid black
+      
+    text-decoration:none;
+  border-color:white;
+   border-style:solid
+}
+}
+
+
+h2{
+   color:white;
+  border:2px solid black
+    
+      text-decoration:none;
+  border-color:white;
+   border-style:solid
+}
+}
+
+h3{
+   color:white;
+  border:2px solid black
+    
+      text-decoration:none;
+  border-color:white;
+   border-style:solid
+}
+}
+
+
+h4{
+   color:white;
+  border:2px solid black
+    
+      text-decoration:none;
+  border-color:white;
+   border-style:solid
+
+}
+
+h5{
+   color:white;
+  border:2px solid black
+    
+        text-decoration:none;
+  border-color:white;
+   border-style:solid
+
+}
+ 
+img:hover{
+  border:2px solid black;
+}
